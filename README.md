@@ -6,7 +6,8 @@ This project aims to develop a data scraping and analysis system focusing on tec
 The system analyzes salary rates, required skills, and job requirements by collecting job-related information from various UK job websites. 
 The goal is to provide valuable insights to job seekers, employers, and recruiters, enabling informed decision-making in the dynamic technology job market. 
 
-ISIGHTS
+INSIGHTS
+
 Job seekers seeking for tech jobs irrespective of the location should focus more of London as there are more job available there.
 Persons with skills in the least tech jobs in demand like sales engineer, data scientist, data engineer etc should endeavor that they upskill frequently to remain relevant and competitive in their field.
 Jobseekers looking for higher pay might want to consider cities like Abingdon, Aylesbury and Aldershot, they have the highest Average salary for Tech.
